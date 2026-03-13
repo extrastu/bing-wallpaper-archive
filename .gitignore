@@ -1,3 +1,8 @@
 .wrangler/
 .wrangler-dev.log
 .wrangler-dev.err.log
+
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
